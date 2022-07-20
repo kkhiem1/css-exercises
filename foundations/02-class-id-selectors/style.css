@@ -1,0 +1,17 @@
+.od{
+    background-color: pink;
+    font-family:Verdana, sans-serif;
+}
+.od.cooler{
+    font-size: 24px;
+}
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
